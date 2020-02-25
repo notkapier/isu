@@ -1,0 +1,6 @@
+gawa database isu sa localhost/phpmyadmin
+import isu.sql
+
+localhost/isu
+admin
+1234wasd
